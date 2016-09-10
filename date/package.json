@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "desc": "Date picker field",
+  "keywords": "date, datepicker, calendar",
+  "author": {
+    "id": 30,
+    "name": "Beth Fraser",
+    "nickname": "edinbeth"
+  }
+}

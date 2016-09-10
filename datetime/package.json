@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "desc": "DateTime picker field",
+  "keywords": "date, time, datetime, datepicker, datetimepicker, calendar",
+  "author": {
+    "id": 30,
+    "name": "Beth Fraser",
+    "nickname": "edinbeth"
+  }
+}
